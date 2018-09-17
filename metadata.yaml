@@ -1,5 +1,8 @@
 _repo: The-Story-of-the-East-Riding-of-Yorkshire_52367
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52367-h/images/cover.jpg
 creator:
   author:
     agent_name: Browne, Horace B. (Horace Baker)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46818'
     url: http://www.gutenberg.org/2009/agents/46818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52367#The-Story-of-the-East-Riding-of-Yorkshire
 gutenberg_issued: '2016-06-18'
 gutenberg_type: Text
 identifiers:
