@@ -1,0 +1,24 @@
+_repo: The-Story-of-the-East-Riding-of-Yorkshire_52367
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browne, Horace B. (Horace Baker)
+    alias: Browne, Horace Baker
+    gutenberg_agent_id: '46818'
+    url: http://www.gutenberg.org/2009/agents/46818
+description: ''
+gutenberg_issued: '2016-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52367'
+  lccn: '13001536'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Yorkshire (England) -- History'
+- GITenberg
+title: The Story of the East Riding of Yorkshire
+url: http://www.gutenberg.org/ebooks/52367
